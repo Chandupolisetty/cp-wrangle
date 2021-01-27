@@ -3,8 +3,8 @@
 ## Assigned play: Much Ado About Nothing
 
 ### Question: Who speaks the most?
-* There are many speakers in the play, I have considered two speakers and they are:
-a. LEONATO
+* There are many speakers in the play, I have considered two speakers and they are:  
+a. LEONATO  
 b. BENEDICK
 
 ### Commands i used to grab the data and to know who spoke the most are:
